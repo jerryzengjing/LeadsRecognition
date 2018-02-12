@@ -1,0 +1,42 @@
+           潜水员在20米深海底敲开鸡蛋 出现神奇一幕(图)
+
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '1',
+							video_id: 254045972,	//vid
+							pic: '//n.sinaimg.cn/front/w1024h576/20180206/NDKZ-fyrhcqz3197623.jpg',		//节目列表小图
+							thumbUrl: '//n.sinaimg.cn/front/w1024h576/20180206/NDKZ-fyrhcqz3197623.jpg',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '当潜水员在20米深海底敲开鸡蛋 居然有点好玩',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: 'http://video.sina.com.cn/p/mobile/doc/2018-02-06/231668001539.html'
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+
+　　原标题：当潜水员在20米深海底敲开鸡蛋 居然有点好玩
+　　一名潜水员把鸡蛋带到20米深的海底。
+
+　　他用一把刀子小心翼翼地打开鸡蛋。这时，奇迹出现了！
+
+　　鸡蛋并没有散开，而是完整地悬浮在水中。水中的鸡蛋颜色晶莹剔透，相当漂亮。
+责任编辑：桂强 

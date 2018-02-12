@@ -1,0 +1,62 @@
+
+
+                    （原标题：缺德男为还债竟偷骨灰勒索家属 一盒要价20万）
+                
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/2/L/L/VD9CA6ALL.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1802/10/tCliL3597/SD/tCliL3597-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+缺德男为还债竟偷骨灰勒索家属 一盒要价20万
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+2月9日，扬州市高邮警方破获了一起盗窃骨灰盒敲诈死者家属的案件。嫌疑人先后盗窃了5个骨灰盒玩敲诈。2月9日上午，高邮警方赶赴宝应将嫌疑人左某抓获。起初，左某拒不交待。民警在他车上找到一部手机，里面有左某和死者家属沟通的短信。手机短信：“看见回复一下，你别看得太死了，大家退一步……”这下，证据确凿，左某兜不住了，很快交待犯罪事实，并带着民警到自家车库拿出此前盗取的骨灰盒。民警：“这是什么东西？”嫌疑人：“骨灰盒。”民警：“谁的？”嫌疑人：“王某。”民警：“从哪拿的？”嫌疑人：“安大路马路边上的那个墓园。”民警：“什么时候拿的？”嫌疑人：“我也记不得了，好像是前几年了吧。”左某交代，他平时做点小生意，前几年因炒期货亏得底朝天，背下上百万的债务，情急之下想出了这么个损招。他在2012至2014年间，先后在宝应郭桥和高邮临泽的两处墓园，挖了四座墓地，盗出五个骨灰盒。然后，用匿名手机和墓主家属联系，索要赎金。民警：“一般管人家要多少钱？”嫌疑人左某：“十几到二十万。”由于左某一直使用的是匿名电话，墓主家人均未付款。最近，左某急了，为取信于人，便使用真实号码，并通过微信向其中一名敲诈对象发送了骨灰盒照片，结果露了馅。
+
+
+
+高邮临泽派出所民警吴昊：“被害人立即把这个线索告诉了我们派出所，之后我们联合我们局里的刑警部门，对此事进一步加大了力度，经多方侦查，最终左某在宝应被抓获。”目前，左某涉嫌敲诈勒索罪，已经被依法刑事拘留。
+
+
+ 本文来源：看看新闻Knews  
+责任编辑：赵亚萍_NN9005 

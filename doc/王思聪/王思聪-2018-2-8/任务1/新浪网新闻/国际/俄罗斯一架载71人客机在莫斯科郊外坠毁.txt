@@ -1,0 +1,40 @@
+           俄罗斯一架载71人客机在莫斯科郊外坠毁
+ 
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '1',
+							video_id: 254208398,	//vid
+							pic: '//n.sinaimg.cn/front/w1024h576/20180211/nBrI-fyrkuxt5742130.jpg',		//节目列表小图
+							thumbUrl: '//n.sinaimg.cn/front/w1024h576/20180211/nBrI-fyrkuxt5742130.jpg',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '现场视频：俄罗斯一架载71人客机坠毁',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: 'http://video.sina.com.cn/p/news/w/doc/2018-02-11/211768015351.html'
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+
+　　海外网2月11日电 据今日俄罗斯网站消息，当地时间11日，俄罗斯萨拉托夫航空公司一架载有71人的安-148客机，从莫斯科起飞后失联。据悉，机上有65名乘客和6名机组人员。
+　　据国际文传社消息，这架安-148客机已经在莫斯科外坠毁。据了解，这架飞机从莫斯起飞，将飞往奥尔斯克。
+　　据俄罗斯媒体消息，当地紧急救援部门代表表示，收到目击者消息称失联客机已经坠毁在拉缅斯科耶区。紧急救援部门正在对该消息进行确认。报道称，这家安-148飞机上有65名乘客和6名机组成员。
+　　点击进入专题
+责任编辑：张迪 

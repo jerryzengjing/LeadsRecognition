@@ -1,0 +1,40 @@
+           男子因婚姻纠纷持刀伤人 见受害人上警车攻击警察
+
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '1',
+							video_id: 254104589,	//vid
+							pic: '//n.sinaimg.cn/front/w1024h576/20180209/LjVt-fyrkuxs5157175.jpg',		//节目列表小图
+							thumbUrl: '//n.sinaimg.cn/front/w1024h576/20180209/LjVt-fyrkuxs5157175.jpg',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '男子因婚姻纠纷持刀伤人  受害人上警车后攻击警察',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: 'http://video.sina.com.cn/p/news/s/doc/2018-02-09/091568008136.html'
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+
+　　原标题：四川甘洛一男子因婚姻纠纷持刀伤人 受害人上警车后警察也遭攻击
+　　2月8日，甘洛县新市坝镇发生一起故意伤害案，嫌疑人因婚姻纠纷持刀对受害人进行伤害，受害人见路上巡逻警车向警察求助，受害人上警车后，嫌疑人向驾驶警车的警察发起攻击，后嫌疑人员被警方控制，现场无民警受伤。
+　　四川省凉山州甘洛县公安局官方微博@V平安甘洛2月8日发布警情通报，2018年2月8日上午10时许，甘洛县新市坝镇团结北街发生一起故意伤害案，嫌疑人沙马某某因婚姻纠纷持刀对受害人木乃某、木乃某某二人进行伤害，受害人木乃某某看见路上巡逻警车向警察求救，受害人上警车后，嫌疑人沙马某某向驾驶警车的警察发起攻击，后嫌疑人被民警控制，现场无民警受伤。目前该案嫌疑人沙马某某已被公安机关控制，受害人已送甘洛县医院进行救治，案件正在进一步办理中。
+（资料来源：@V平安甘洛）
+责任编辑：张义凌 

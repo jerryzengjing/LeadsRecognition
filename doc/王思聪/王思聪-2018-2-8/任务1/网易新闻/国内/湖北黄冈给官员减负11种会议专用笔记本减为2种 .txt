@@ -1,0 +1,30 @@
+
+
+                    （原标题：黄冈市向形式主义“开刀” 11种专用笔记本整合为2种）
+                
+2月8日，湖北黄冈市委办公室下发通知，决定在全市范围内，将各地各单位印发的11种学习和工作笔记本整合为2种：《党员手册》记载学习类内容，工作笔记本记载工作类内容。获知这一消息，黄州区路口镇党委书记张劲松表示举双手赞成：“以前开会，包里至少装四五个笔记本，这下可减负了。”事情源自去年底召开的黄冈市委五届六次全会。一位县长在分组讨论时“诉苦”：现在强调痕迹管理，一些部门印发各种笔记本，且要求专本专用。基层干部的很多学习和工作内容在一个笔记本上记了，还得在“专用笔记本”上抄一遍。得知这一情况，黄冈市纪委主要负责人在市委常委会上建议，对这一党员干部反映强烈的突出问题展开调研。会上，黄冈市委负责人果断拍板：尽快调研，拿出整合方案，坚决治理形式主义。经过近一个月调研，发现各类专用笔记本、考核记实簿、履职手册、日志等有11种之多！基层普遍反映，痕迹管理确有必要，但过于强调专本专用，导致许多党员干部不得不花费大量时间精力转抄转摘，增加了负担，是典型的形式主义。调研组召集印发笔记本的市直相关部门负责人协商，并向上级相关部门请示汇报，获得支持。整合方案最终确定：将5种学习类笔记本的相关内容整合到《党员手册》，将6种工作类笔记本的相关内容整合到工作笔记本。黄冈市委办公室在通知中强调，整合绝不是降低工作标准和要求，工作只能加强，不能削弱。整合后的笔记本，按规定应记载的党建学习和工作纪实内容要坚持据实记载，确保工作和学习情况留痕备查。
+
+
+
+
+          var newsFontSize = wwwstore.getItem("fontSize");
+          if (newsFontSize!=null && newsFontSize!=""){
+            $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+            $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+          }
+          var play = function(divId, url , defImg, w, h){
+            jwplayer(divId).setup({
+              flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+              file: url,
+              image: defImg,
+              width: w,
+              height: h
+            });
+          }
+          var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+          if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				
+
+
+ 本文来源：湖北日报  
+责任编辑：韩佳鹏_NN9841 

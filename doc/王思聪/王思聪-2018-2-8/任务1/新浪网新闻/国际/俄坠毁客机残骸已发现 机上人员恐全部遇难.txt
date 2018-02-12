@@ -1,0 +1,46 @@
+           俄坠毁客机残骸已发现 机上人员恐全部遇难
+ 
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '1',
+							video_id: 254208398,	//vid
+							pic: '//n.sinaimg.cn/front/w1024h576/20180211/nBrI-fyrkuxt5742130.jpg',		//节目列表小图
+							thumbUrl: '//n.sinaimg.cn/front/w1024h576/20180211/nBrI-fyrkuxt5742130.jpg',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '现场视频：俄罗斯一架载71人客机坠毁',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: 'http://video.sina.com.cn/p/news/w/doc/2018-02-11/211768015351.html'
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+ 报道截图
+　　[环球网报道 记者 李慧玲]据今日俄罗斯2月11日报道，一架由萨托夫航空公司运营的“安东诺夫-148”飞机从莫斯科起飞后失踪，飞机上有65名乘客和6名工作人员。
+　　俄罗斯卫星通讯社援引消息人士的话称，从空中坠毁的飞机已在莫斯科郊外的拉缅斯科地区找到。
+　　另据今日俄罗斯援引消息人士的话称，“飞机上乘客和机组人员没有生还可能”。
+
+　　报道称，该飞机是由莫斯科多莫杰多沃机场飞往靠近俄罗斯和哈萨克斯坦边境的城市——奥尔斯克。俄罗斯紧急事务部门正在核实关于该飞机坠毁的报道。
+　　据美联社援引俄媒报道，失联客机隶属于萨拉托夫航空公司。该航司成立于1931年，曾三次获得“俄罗斯之翼”殊荣。2015年10月，俄航空当局认为萨拉托夫航空违反安全规则而不允许该航空公司运营俄罗斯以外的航班。直到2016年5月，该公司才恢复部分国际服务。
+　　点击进入专题
+
+ 
+
+责任编辑：张迪 

@@ -1,0 +1,79 @@
+
+
+                    （原标题：醉驾男遇查酒驾换座位，还爆粗口踢记者踹交警）
+                
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/2/0/E/VD9BVJM0E.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1802/10/cSCiZ2505/SD/cSCiZ2505-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+醉驾男遇查酒驾换座位，还爆粗口踢记者踹交警
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+据@江苏新闻2月10日消息，昨晚，南京交警在龙蟠中路上查酒驾。不远处一辆宝马车突然停下，司机卢某与副驾的女性开始换位置。交警随即上前，可这名男子耍起无赖，不仅不断爆粗口，还踢踹记者和民警。经检测，血液酒精含量居然是醉驾标准的两倍还多。醉驾男子爆粗口抢话筒踢记者踹交警。视频截图
+
+
+
+
+          var newsFontSize = wwwstore.getItem("fontSize");
+          if (newsFontSize!=null && newsFontSize!=""){
+            $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+            $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+          }
+          var play = function(divId, url , defImg, w, h){
+            jwplayer(divId).setup({
+              flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+              file: url,
+              image: defImg,
+              width: w,
+              height: h
+            });
+          }
+          var playUrl = 'http://cloudvideo.thepaper.cn/video/0cca03d008264120a3a3584570ced36d/hd/c944e3ed-c57f-418d-8939-29278e2b9ab2-a0bf08c5-94e2-d83f-0035-bd78a8a4d07d.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+          if(playUrl){play(wrapperId,playUrl,'//image.thepaper.cn/image/6/854/406.jpg',$wrapper.width(),$wrapper.height())}
+				
+
+
+ 本文来源：澎湃新闻  
+责任编辑：韩佳鹏_NN9841 

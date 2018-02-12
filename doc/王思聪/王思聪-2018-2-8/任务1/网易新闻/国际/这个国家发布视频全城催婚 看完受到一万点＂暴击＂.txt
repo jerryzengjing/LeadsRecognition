@@ -1,0 +1,62 @@
+
+
+                    （原标题：官方催婚来了！这个国家操碎了心，连街头路人都不放过！看完受到一万点"暴击"...）
+                
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/2/9/3/VD9C7A393.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1802/10/baHiM0570/SD/baHiM0570-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+未婚率持续上升 东京政府发布视频全城催婚
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+春节本应是一段愉快的假期，然而很多单身朋友回家后内心恐怕是非常惶恐的，又到了一年七大姑八大姨催婚的时候。“催婚”似乎成了全世界单身朋友的痛点...最近，日本东京的单身男女也遇到了一次全城范围的持续催婚，东京政府还特此发布了催婚视频。未婚率持续上升 东京政府发布视频全城催婚本月，东京政府制作了一段名为“2020年你和谁一起看奥运？”的视频，并持续通过街头大屏幕、地铁车厢和电影院等方式在东京全城播出。视频中，主人公的祖父母在1964年东京第一次举办奥运会时相识并结婚；随着2020年的临近，主人公与恋人携手相约，两年后一起看奥运。东京政府表示，制作这段视频的目的是为了增进未婚者结婚的契机。这段时长一分钟的“催婚”视频在东京街头反复播出，也引起了市民的热议。东京市民说，30岁前结婚就行。另一位东京市民表示，没钱结不了婚，等自己生活安定以后再考虑。
+
+
+
+统计数据显示，日本男性和女性人口中到50岁时仍然未婚的比例已达到23%和14%，短短25年内分别增加了3倍和2倍以上。未婚现象在日本大城市尤为严重，以东京为例，每4名男性以及每5名女性中就有1人未婚，远远高于全国平均水平。去年，日本出生人口仅为94万人，创下有统计数据以来的最低值。日趋严重的少子化问题已成为影响日本经济中长期发展的重要因素。
+
+
+ 本文来源：央视财经  
+责任编辑：赵亚萍_NN9005 

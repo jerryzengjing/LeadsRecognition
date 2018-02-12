@@ -1,0 +1,32 @@
+
+
+                    （原标题：普京“自我爆料”：我没有智能手机，对社交媒体没兴趣）
+                
+普京精于运动的俄罗斯总统普京，对于前沿科技向来兴趣寥寥。近日，他更“爆料”称自己并不使用智能手机。据俄罗斯卫星通讯社9日消息，普京2月8日在总统科学与教育委员会会议上透露出这一消息。俄国家研究中心库尔恰托夫研究所所长科瓦利丘克在会议期间谈到科技发展迅猛以及智能设备越来越普及，他举例说，大多数人现在都拥有智能手机。普京随即反驳称，“您刚才说，所有人都有智能手机，可我就没有。”据法新社报道，普京曾在2005年透露称，他没有手机，在去年与一群年轻学生会谈时，普京还表示，他几乎不上网，对社交媒体也没有兴趣，更不用说使用Instagram。尽管自己不使用智能手机，但普京懂得支持国产智能手机的研发。2014年11月，出席APEC会议的俄罗斯总统普京向中国国家主席习近平赠送了俄罗斯自主研发的双屏智能手机YotaPhone 2，为自家产品“打Call”。而普京的兴趣点可能是在汽车方面。俄联邦中央选举委员会网站近日公布的普京财产状况显示，他拥有四辆车，包括两辆GAZ M21汽车（一辆1960年生产、一辆1965年生产），一辆2009年生产的拉达Niva汽车以及一辆1987年生产的“斯基福”拖车。2011年，当时担任俄总理的普京还曾骑着一辆哈雷摩托车，率领摩托车车队参加了一项纪念二战的活动。普京当时的一身“骑士”扮相也被媒体广泛报道。
+          var newsFontSize = wwwstore.getItem("fontSize");
+          if (newsFontSize!=null && newsFontSize!=""){
+            $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+            $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+          }
+          var play = function(divId, url , defImg, w, h){
+            jwplayer(divId).setup({
+              flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+              file: url,
+              image: defImg,
+              width: w,
+              height: h
+            });
+          }
+          var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+          if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				
+
+
+
+
+
+
+
+
+ 本文来源：澎湃新闻  
+责任编辑：张铃媛_NBJS5669 

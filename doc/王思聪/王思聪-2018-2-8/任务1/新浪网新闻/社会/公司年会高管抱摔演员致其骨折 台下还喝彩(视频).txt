@@ -1,0 +1,37 @@
+           公司年会高管抱摔演员致其骨折 台下还喝彩(视频)
+
+
+
+				SINA_TEXT_PAGE_INFO['videoDatas0'] = [						{
+							ad_state: '1',
+							pid: '1',
+							video_id: 254103163,	//vid
+							pic: '//n.sinaimg.cn/front/w544h306/20180209/UtOJ-fyrkuxs4946406.png',		//节目列表小图
+							thumbUrl: '//n.sinaimg.cn/front/w544h306/20180209/UtOJ-fyrkuxs4946406.png',	//html5播放器上视频还未开始播显示的图片，可与pic相同
+							title: '山东一公司高管年会抱摔演员 台下一片喝彩',	//标题
+							source: '',	//视频发布来源。如：新华网。
+							url: 'http://video.sina.com.cn/p/news/s/doc/2018-02-09/073568007646.html'
+						}];
+				SinaPage.loadWidget({
+					trigger: {
+					id: 'videoList0'
+					},
+				require:[
+				{
+					url: "//sjs2.sinajs.cn/video/sinaplayer/js/page/player_v1.js"
+				},
+				{
+					url: "//finance.sina.com.cn/other/src/sinaPageVideo2017.js"
+				}
+				],
+				onAfterLoad: function () {
+					new SinaPageVideo({ 
+						 wrap:'videoList0',//播放器外层id 
+		 				videoList:SINA_TEXT_PAGE_INFO['videoDatas0']
+				 });
+			}
+			});
+		
+
+　　山东滕州锦腾弘达水刺无纺布有限责任公司年会上，公司一高管用这个姿势抱起反串演员然后重摔在台上，事后据知情人透露演员趴在台子上三分钟未起来，被摔成骨折。这是什么样的企业文化？
+责任编辑：张义凌 
